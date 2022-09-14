@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.home{
+  background-image: url('./Image.jpg');
+  height: 90vh;
+  width: 100%;
+  background-position: 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  }

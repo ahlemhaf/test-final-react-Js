@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "firstName": "ahlem",
+      "lastName": "hafsouni",
+      "email": "ahlemhafsouni044@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "firstName": "rihem",
+      "lastName": "inoubli",
+      "email": "rihem.inoubli@etudiant-fst.utm.tn",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    }
+  ],
+  "todo": [
+    {
+      "Name": "first To-do",
+      "Description": "bonne format .",
+      "id": 1
+    }
+  ]
+}
